@@ -1,0 +1,6 @@
+			Sporting Sphere Complex			
+username : admin	password : admin
+username : saba 	password : 23-50123-1
+username : taki 	password : 23-50103-1
+username : asad 	password : 23-50088-1
+username : jishan	password : 23-50089-1
